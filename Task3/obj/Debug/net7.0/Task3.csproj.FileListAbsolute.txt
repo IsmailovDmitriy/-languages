@@ -1,0 +1,14 @@
+B:\Уроки\Lesson1\Task3\obj\Debug\net7.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+B:\Уроки\Lesson1\Task3\obj\Debug\net7.0\Task3.AssemblyInfoInputs.cache
+B:\Уроки\Lesson1\Task3\obj\Debug\net7.0\Task3.AssemblyInfo.cs
+B:\Уроки\Lesson1\Task3\obj\Debug\net7.0\Task3.csproj.CoreCompileInputs.cache
+B:\Уроки\Lesson1\Task3\bin\Debug\net7.0\Task3.exe
+B:\Уроки\Lesson1\Task3\bin\Debug\net7.0\Task3.deps.json
+B:\Уроки\Lesson1\Task3\bin\Debug\net7.0\Task3.runtimeconfig.json
+B:\Уроки\Lesson1\Task3\bin\Debug\net7.0\Task3.dll
+B:\Уроки\Lesson1\Task3\bin\Debug\net7.0\Task3.pdb
+B:\Уроки\Lesson1\Task3\obj\Debug\net7.0\Task3.dll
+B:\Уроки\Lesson1\Task3\obj\Debug\net7.0\refint\Task3.dll
+B:\Уроки\Lesson1\Task3\obj\Debug\net7.0\Task3.pdb
+B:\Уроки\Lesson1\Task3\obj\Debug\net7.0\Task3.genruntimeconfig.cache
+B:\Уроки\Lesson1\Task3\obj\Debug\net7.0\ref\Task3.dll

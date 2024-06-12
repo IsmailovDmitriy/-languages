@@ -1,0 +1,14 @@
+B:\Уроки\Lesson1\Task4\bin\Debug\net7.0\Task4.exe
+B:\Уроки\Lesson1\Task4\bin\Debug\net7.0\Task4.deps.json
+B:\Уроки\Lesson1\Task4\bin\Debug\net7.0\Task4.runtimeconfig.json
+B:\Уроки\Lesson1\Task4\bin\Debug\net7.0\Task4.dll
+B:\Уроки\Lesson1\Task4\bin\Debug\net7.0\Task4.pdb
+B:\Уроки\Lesson1\Task4\obj\Debug\net7.0\Task4.GeneratedMSBuildEditorConfig.editorconfig
+B:\Уроки\Lesson1\Task4\obj\Debug\net7.0\Task4.AssemblyInfoInputs.cache
+B:\Уроки\Lesson1\Task4\obj\Debug\net7.0\Task4.AssemblyInfo.cs
+B:\Уроки\Lesson1\Task4\obj\Debug\net7.0\Task4.csproj.CoreCompileInputs.cache
+B:\Уроки\Lesson1\Task4\obj\Debug\net7.0\Task4.dll
+B:\Уроки\Lesson1\Task4\obj\Debug\net7.0\refint\Task4.dll
+B:\Уроки\Lesson1\Task4\obj\Debug\net7.0\Task4.pdb
+B:\Уроки\Lesson1\Task4\obj\Debug\net7.0\Task4.genruntimeconfig.cache
+B:\Уроки\Lesson1\Task4\obj\Debug\net7.0\ref\Task4.dll
